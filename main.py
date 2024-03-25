@@ -5,3 +5,5 @@
      print('а больше')
  elif a < v:
      print(' v больше')
+ else:
+     print('они равны')
