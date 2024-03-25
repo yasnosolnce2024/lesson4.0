@@ -1,11 +1,11 @@
- a = 7 # создание
- v = 9
+for i in range(8):
+    print('слово')
+a, v = 9, 8
 
- if a > v:
+if a > v:
      print('а больше')
- elif a < v:
+elif a < v:
      print(' v больше')
- else:
+else:
      print('они равны')
 
- print('это нам не нужно!')
